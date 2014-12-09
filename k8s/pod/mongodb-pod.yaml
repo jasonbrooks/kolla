@@ -15,5 +15,7 @@ desiredState:
     id: mongodb-1
     version: v1beta1
 id: mongodb
+apiVersion: v1beta1
+kind: Pod
 labels:
   name: mongodb

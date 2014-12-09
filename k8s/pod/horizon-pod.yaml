@@ -9,5 +9,7 @@ desiredState:
     id: horizon-1
     version: v1beta1
 id: horizon
+apiVersion: v1beta1
+kind: Pod
 labels:
   name: horizon

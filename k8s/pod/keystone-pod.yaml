@@ -16,5 +16,7 @@ desiredState:
     id: keystone-1
     version: v1beta1
 id: keystone
+apiVersion: v1beta1
+kind: Pod
 labels:
   name: keystone

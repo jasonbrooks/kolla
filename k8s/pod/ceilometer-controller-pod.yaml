@@ -51,5 +51,7 @@ desiredState:
     id: ceilometer-1
     version: v1beta1
 id: ceilometer
+apiVersion: v1beta1
+kind: Pod
 labels:
   name: ceilometer-controller

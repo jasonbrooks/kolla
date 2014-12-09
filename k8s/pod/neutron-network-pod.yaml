@@ -26,5 +26,7 @@ desiredState:
     id: neutron-network-1
     version: v1beta1
 id: neutron-network
+apiVersion: v1beta1
+kind: Pod
 labels:
   name: neutron-network

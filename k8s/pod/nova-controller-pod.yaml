@@ -44,5 +44,7 @@ desiredState:
     id: nova-1
     version: v1beta1
 id: nova
+apiVersion: v1beta1
+kind: Pod
 labels:
   name: nova-controller

@@ -8,5 +8,7 @@ desiredState:
     id: rabbitmq-1
     version: v1beta1
 id: rabbitmq-master
+apiVersion: v1beta1
+kind: Pod
 labels:
   name: rabbitmq-master

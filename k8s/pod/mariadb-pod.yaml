@@ -18,5 +18,7 @@ desiredState:
     id: mariadb-1
     version: v1beta1
 id: mariadb
+apiVersion: v1beta1
+kind: Pod
 labels:
   name: mariadb

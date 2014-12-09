@@ -15,5 +15,7 @@ desiredState:
     id: zaqar-1
     version: v1beta1
 id: zaqar
+apiVersion: v1beta1
+kind: Pod
 labels:
   name: zaqar
